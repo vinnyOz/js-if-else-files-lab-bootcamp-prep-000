@@ -8,6 +8,10 @@ if (name ===                                         "joe") {
 
 if (index.height === 70) {
     console.log("The height is 70")
-    
+  
+if (height ===                                        70) {
+  console.log("the height is correct")
+}
+}
 
 
