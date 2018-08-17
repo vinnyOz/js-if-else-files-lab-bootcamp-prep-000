@@ -8,7 +8,7 @@ if (name ===                                         "joe") {
   console.log("expected the name to be joe ")
 }
 
-if (index.height === 70) {
+if (index.height === 70 {
     console.log("The height is 70")
   
 if (height ===                                        70) {
